@@ -1,4 +1,4 @@
-package com.company;
+package com.avengers.example;
 
 public class Hanoi {
 
@@ -7,7 +7,6 @@ public class Hanoi {
 	}
 
 	/**
-	 4399小游戏
 	 1.把n-1个圆盘从A经过C移动到B
 	 2.把第n个圆盘从A移动到C
 	 3.把n-1个小圆盘从B经过A移动到C

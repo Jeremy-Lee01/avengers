@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cb41bdc0-66e7-4be3-b958-4ee11e0174b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JarLoader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JarLoader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/META-INF/Arithmetic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/com/company/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/com/company/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/com/company/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/avengers/example/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/avengers/example/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/avengers/example/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="177">
-                <caret line="104" selection-start-line="104" selection-end-line="104" />
+              <first_editor relative-caret-position="-125">
+                <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/NewBSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -35,19 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Search.java">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Hanoi.java">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Hanoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="150">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
                 <element signature="e#111#112#0" expanded="true" />
@@ -57,12 +74,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="182" selection-start-line="182" selection-end-line="182" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/LowBSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Common.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              <folding>
+                <element signature="e#641#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +118,19 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sift</find>
+      <find>冒泡</find>
+      <find>chang</find>
+      <find>change</find>
+      <find>positionber</find>
+      <find>parti</find>
+      <find>myList</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Common.chang</replace>
+      <replace>change</replace>
+      <replace>number</replace>
+      <replace>array</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -93,9 +143,16 @@
         <option value="$PROJECT_DIR$/src/com/company/Hanoi.java" />
         <option value="$PROJECT_DIR$/src/com/company/Search.java" />
         <option value="$PROJECT_DIR$/src/com/company/Test.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/com/company/Sort.java" />
+        <option value="$PROJECT_DIR$/../datax-problem/datax-problem.md" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/Search.java" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/Hanoi.java" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/Sort.java" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/LowBSort.java" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/Common.java" />
+        <option value="$PROJECT_DIR$/src/com/avengers/example/NewBSort.java" />
       </list>
     </option>
   </component>
@@ -108,9 +165,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-444" />
-    <option name="y" value="41" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="80" />
     <option name="width" value="1943" />
     <option name="height" value="884" />
   </component>
@@ -126,8 +183,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
               <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,9 +207,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/code/idea/动环项目/ElasticAccessServer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,20 +224,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort">
+  <component name="RunManager" selected="Application.NewBSort">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Hanoi" />
+    <configuration name="LowBSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avengers.example.LowBSort" />
       <module name="Arithmetic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.avengers.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,23 +245,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="untitled104" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Search" />
+    <configuration name="NewBSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avengers.example.NewBSort" />
       <module name="Arithmetic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.avengers.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.avengers.example.Search" />
+      <module name="Arithmetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avengers.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Hanoi" />
-      <item itemvalue="Application.Search" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Search (1)" />
+      <item itemvalue="Application.LowBSort" />
+      <item itemvalue="Application.NewBSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewBSort" />
+        <item itemvalue="Application.LowBSort" />
+        <item itemvalue="Application.Search (1)" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Search" />
-        <item itemvalue="Application.Hanoi" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -291,18 +364,19 @@
       <workItem from="1577239871291" duration="2472000" />
       <workItem from="1577324881208" duration="13579000" />
       <workItem from="1577409349719" duration="31881000" />
-      <workItem from="1577620901482" duration="97000" />
+      <workItem from="1577620901482" duration="1565000" />
+      <workItem from="1577622976871" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78961000" />
+    <option name="totallyTimeSpent" value="83732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1735925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -311,7 +385,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3371105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17422096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3045326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Anonymous Apex" order="12" />
       <window_info anchor="bottom" id="Log Analyzer" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -355,17 +429,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../datax-problem/datax-problem.md" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/QzpcVXNlcnNcZ3VvbGlhbmdcQXBwRGF0YVxSb2FtaW5nXERpbmdUYWxrXDIyOTgxNDQzOV92MlxJbWFnZUZpbGVzXDE1Nzc2MTY5Mzk1NzNfMDFEMzA0NDItQkFENi00YTg1LUI0RjktNDI4ODdFRUY2RkY4LnBuZw==.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Hanoi.java">
+    <entry file="file://$PROJECT_DIR$/Arithmetic.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Hanoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#111#112#0" expanded="true" />
@@ -373,26 +447,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Sort.java">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-125">
+            <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/QzpcVXNlcnNcZ3VvbGlhbmdcQXBwRGF0YVxSb2FtaW5nXERpbmdUYWxrXDIyOTgxNDQzOV92MlxJbWFnZUZpbGVzXDE1Nzc2MTY5Mzk1NzNfMDFEMzA0NDItQkFENi00YTg1LUI0RjktNDI4ODdFRUY2RkY4LnBuZw==.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="177">
-            <caret line="104" selection-start-line="104" selection-end-line="104" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/LowBSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/avengers/example/NewBSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>

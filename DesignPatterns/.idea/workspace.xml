@@ -3,7 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="1c5a76ea-e8ed-4840-a50b-f40ddea5798c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JarLoader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JarLoader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/META-INF/Arithmetic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/com/company/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/com/company/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/com/company/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/company/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/company/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,10 +132,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="618" />
-    <option name="y" value="81" />
+    <option name="x" value="-285" />
+    <option name="y" value="88" />
     <option name="width" value="1943" />
-    <option name="height" value="885" />
+    <option name="height" value="884" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -402,12 +410,12 @@
       <workItem from="1577084791705" duration="647000" />
       <workItem from="1577239142866" duration="1324000" />
       <workItem from="1577324716115" duration="758000" />
-      <workItem from="1577409221958" duration="1394000" />
+      <workItem from="1577409221958" duration="2000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105838000" />
+    <option name="totallyTimeSpent" value="106444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
