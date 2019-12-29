@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ee10f8-12c7-4ece-b731-2184ad51b1ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flink-sink-es-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flink-sink-es-example/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,56 +17,174 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/avengers/example/JarLoaderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/ProcessInnerScheduler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="245">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/TaskGroupContainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/avengers/example/JarLoader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="200">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#244#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/AbstractRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/WriterRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/channel/MemoryChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/ReadRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Thread/TaskGroupRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="747" selection-start-line="747" selection-end-line="747" />
+              <folding>
+                <element signature="e#15020#15021#0" expanded="true" />
+                <element signature="e#15084#15085#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/JarLoader.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/AbstractRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/ReadRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/WriterRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/receiver/RecordSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/receiver/RecordReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/channel/Channel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/FixedThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/receiver/BufferedRecordExchanger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/TaskGroupContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/TaskGroupRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/ProcessInnerScheduler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/channel/MemoryChannel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/runner/ReadRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Thread/runner/WriterRunner.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="195" />
-    <option name="width" value="1695" />
-    <option name="height" value="880" />
+    <option name="x" value="-202" />
+    <option name="y" value="87" />
+    <option name="width" value="1943" />
+    <option name="height" value="883" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,19 +216,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JarLoader" type="b2602c69:ProjectViewProjectNode" />
               <item name="JarLoader" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JarLoader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JarLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="receiver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JarLoader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JarLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +263,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatterns" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Scala" />
@@ -142,9 +282,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Client">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.Client" />
+      <module name="JarLoader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,6 +310,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.avengers.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessInnerScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ProcessInnerScheduler" />
+      <module name="JarLoader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,6 +364,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ProcessInnerScheduler" />
         <item itemvalue="Application.JarLoaderTest" />
       </list>
     </recent_temporary>
@@ -212,17 +382,18 @@
       <updated>1575943169187</updated>
       <workItem from="1575943170396" duration="1282000" />
       <workItem from="1576034280112" duration="615000" />
+      <workItem from="1576658647571" duration="5156000" />
+      <workItem from="1576717113593" duration="15036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1897000" />
+    <option name="totallyTimeSpent" value="22089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,8 +402,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60764873" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -242,6 +413,10 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Sequence" order="13" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="14" />
+      <window_info anchor="bottom" id="Log Analyzer" order="15" />
+      <window_info anchor="bottom" id="SOQL Query" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,7 +431,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Thread/ProcessInnerScheduler.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Thread/runner/ReadRunner.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="jar://D:/jdk/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avengers/example/JarLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avengers/example/JarLoaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -264,10 +471,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avengers/example/JarLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/receiver/RecordSender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/receiver/RecordReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/receiver/BufferedRecordExchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/channel/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/channel/MemoryChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/ProcessInnerScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/AbstractRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/TaskGroupRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/TaskGroupContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/ReadRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/runner/WriterRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Thread/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#252#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
