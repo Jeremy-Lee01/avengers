@@ -27,5 +27,5 @@
     1.java-common-tool-example：打印JVM的信息
     2.JarLoader: 调用JAR包中的类
     3.DesignPatterns：23种设计模式
-    
+    4.arithmetic：9种排序的算法
  ### Kafka
