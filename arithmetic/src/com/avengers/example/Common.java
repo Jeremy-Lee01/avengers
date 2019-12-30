@@ -1,5 +1,7 @@
 package com.avengers.example;
 
+import java.util.List;
+
 public class Common {
 
 	/**
@@ -21,7 +23,7 @@ public class Common {
 	 */
 	public static void print(int[] array) {
 		for (int i = 0; i < array.length; i++) {
-			System.out.print(array[i]);
+			System.out.println(array[i]);
 		}
 	}
 
@@ -33,5 +35,34 @@ public class Common {
 	 */
 	public static int getRandom(int start, int end) {
 		return (int) (Math.random() * (end - start + 1) + start);
+	}
+
+	/**
+	 * 数组之间的copy
+	 * @param from
+	 * @param to
+	 */
+	public static void copytoArray(int[] from,int[] to) {
+		for (int i =0 ;i<from.length;i++){
+			to[i] = from[i];
+		}
+	}
+
+	/**
+	 * 将桶转换为数组
+	 * @param bucket
+	 * @param length
+	 * @return
+	 */
+	public static int[] bucketToArray(List<Integer>[] bucket,int length) {
+		int[] array = new int[length];
+		int position = 0;
+		for (int i =0;i<bucket.length;i++) {
+			for(int j=0;j<bucket[i].size();j++){
+				array[position] = bucket[i].get(j);
+				position ++;
+			}
+		}
+		return array;
 	}
 }
