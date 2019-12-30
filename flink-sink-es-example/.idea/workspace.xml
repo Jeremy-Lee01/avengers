@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d69ab3-4a55-4d52-aeeb-f6426cdea387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/OtherSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/com/avengers/example/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/out/production/Arithmetic/com/avengers/example/Common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/NewBSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/NewBSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arithmetic/src/com/avengers/example/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/ProcessInnerScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/TaskGroupContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/TaskGroupRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/channel/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/channel/MemoryChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/receiver/BufferedRecordExchanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/receiver/RecordReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/receiver/RecordSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/runner/AbstractRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/runner/ReadRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/Thread/runner/WriterRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/ProcessInnerScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/TaskGroupContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/TaskGroupRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/channel/Channel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/channel/MemoryChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/receiver/BufferedRecordExchanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/receiver/RecordReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/receiver/RecordSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/runner/AbstractRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/runner/ReadRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jarLoader/src/main/java/Thread/runner/WriterRunner.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -109,9 +126,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="500" />
-    <option name="y" value="80" />
-    <option name="width" value="1944" />
+    <option name="x" value="652" />
+    <option name="y" value="131" />
+    <option name="width" value="1943" />
     <option name="height" value="885" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -283,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -368,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
