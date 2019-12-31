@@ -25,9 +25,9 @@
  
  ### JAVA的工具类
     1.java-common-tool-example：打印JVM的信息
-    2.JarLoader: 调用JAR包中的类
-    3.DesignPatterns：23种设计模式
+    2.jarLoader: 调用JAR包中的类
+    3.designPatterns：23种设计模式
     4.arithmetic：9种排序的算法
-    5.thread：datax的核心的线程代码抽取
+    5.thread: datax线程代码的抽取
     
  ### Kafka
