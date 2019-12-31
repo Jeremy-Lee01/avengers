@@ -28,4 +28,6 @@
     2.JarLoader: 调用JAR包中的类
     3.DesignPatterns：23种设计模式
     4.arithmetic：9种排序的算法
+    5.thread：datax的核心的线程代码抽取
+    
  ### Kafka
