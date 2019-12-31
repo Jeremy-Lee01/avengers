@@ -21,7 +21,7 @@
     1.两数之和
     2.两数相加
     
-    LeetCode项目中
+    leetCode项目中
  
  ### JAVA的工具类
     1.java-common-tool-example：打印JVM的信息
