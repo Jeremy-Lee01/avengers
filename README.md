@@ -6,8 +6,9 @@
  ##  目前的例子
  
  ### TODO
-    flink-jdbc 的源码分析
- 
+    flink-source-mongodb-example
+    flink-sink-mongodb-example
+    
  ### ElasticSearch的插件
      目前的ES版本6.6版本
      1.elasticsearch-plugin-log-example：控制台打印信息
