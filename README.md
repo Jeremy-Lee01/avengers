@@ -6,8 +6,7 @@
  ##  目前的例子
  
  ### TODO
-    flink-source-mongodb-example
-    flink-sink-mongodb-example
+    flink-mongodb-example
     
  ### ElasticSearch的插件
      目前的ES版本6.6版本
