@@ -19,7 +19,7 @@
     3.flink-kafka-example:flink读取socket数据下沉到kafka
     4.flink-kafka-example:flink读取kafka数据进行打印
     5.flink-sink-es-example:flink读取socket数据下沉到elasticsearch
-    
+    6.flink-source-mongodb-example读取mongodb数据进行打印
     
  ### LeetCode试题
     1.两数之和
